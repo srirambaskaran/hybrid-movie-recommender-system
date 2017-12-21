@@ -34,8 +34,8 @@ Root mean square error measure is used to determine the quality of recommender s
 ```
 ALS => Rank = 3, RMSE = 1.074
 Simple User CF  - without model => Neighbors = 25, RMSE = 0.9750
-Hybrid Recommender => Neighbors = 25, RMSE = 0.94, RMSE = 0.9483
-Hybrid Recommender => Neighbors = 30, RMSE = 0.94, RMSE = 0.9341
+Hybrid Recommender => Neighbors = 25, RMSE = 0.9483
+Hybrid Recommender => Neighbors = 30, RMSE = 0.9341
 ```
 
 ## Remarks
